@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhilipsHue Bram Mathijssen</string>
+    <string name="hueLabel">Hue:</string>
+    <string name="saturationLabel">Saturation:</string>
+    <string name="brightnessLabel">Brightness:</string>
+    <string name="saveButton">Save</string>
+    <string name="cancelButton">Cancel</string>
+</resources>
